@@ -60,5 +60,5 @@ An advanced calculator web app with themes, history, voice input, keyboard suppo
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Nausheen01
-- LinkedIn: https://github.com/Nausheen01
-- Portfolio: coming soon
+- LinkedIn: https://www.linkedin.com/in/nausheen-saifi-5914271b4/
+- Portfolio: https://nausheen-frontend-portfolio.vercel.app/
